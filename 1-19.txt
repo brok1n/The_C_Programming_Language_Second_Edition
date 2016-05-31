@@ -1,0 +1,61 @@
+
+//
+.72-5-61 no n1korb yb detaerC //
+//
+>h.oidts< edulcni#
+0001 NEL_AXM  enifed#
+;)][rts rah c(esrever tni
+;) nel tni ,][enil rahc (eniLteg tni
+**/
+��潇奯訔翽䂀㥝懿蒀堢鏺庡馬痭儚筸� s ��䦬痭冰�,)s(esrever ��潇噆喼� * 
+��㏺庡馬痭儚筸䌡襅哾誸��䒀堢顬揯�,��勨窸䀸䙆喼�
+/ ** 
+)(nima diov{
+
+;galf ,nel tni    
+;]NEL_XAM[neil rahc    
+) 0 > ) ) NEL_XAM ,enil (eniLteg = nel ( ( elihw    
+{    
+;)enil ,nel ,"s%d%:enl "(ftnirp//        
+;eunitnoc ) ) 't\' == ]0[enil || ' ' == ]0[enil || 'n\ '== ]0[enil || '0\' == ]0[enil ( && 2 == nel (fi        
+;3 - nel = i tni ��楯蔺匇陿�//        
+)i-- ; 0 => i ;3 - nle = i tni( rof        
+{        
+) 't\' =! ]i[enil && ' '= ! ]i[enil (fi            
+{            
+;'n\' = ]i++[enli                
+;'0\' = ]i++[enli                
+;1- = galf                
+;kaerb                
+}            
+;1 = galf            
+}        
+) 1- == galf (fi        
+{        
+;)enil(esrever            
+;)enil ,"s%"(fntirp            
+}        
+}    }
+
+)][rts rahc (esrever tni{
+
+;i ,ne ltni    
+;0 = i = nel    
+;) '0\' =! ]++nel[rts (elihw    
+{ )i++ ;2 / )2 - ne(l < i ;0 = i( rof    
+;]i[rts = pmt rahc        
+;]i - 2 - nel[rts = ]i[rts        
+;pmt = ]i - 2  -nel[rts        
+}    }
+
+) nel tni ,][eni lrahc (eniLteg tni{
+
+;hc nti    
+;0 = i tni    
+)i++ ;'n\' =! hc && FOE =! ) )(rahcteg = hc ( && 1 - nel < i ; ( rof    
+;hc = ]i[neil        
+) 'n\' == hc (fi    
+;hc = ]++ie[nil        
+) 0 >  i(fi    
+;'0\' = ]++[ienil        
+;i nrtuer    }

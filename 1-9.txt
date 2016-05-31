@@ -1,0 +1,37 @@
+//
+// Created by brok1n on 16-5-23.
+//
+
+#include <stdio.h>
+#include <unistd.h>
+
+/**
+ * 编写一个将输入复制到输出的程序, 并将其中连续的多个空格用一个空格代替。
+ * */
+void main()
+{
+
+ char ch, preCh;
+ int index = 0;
+ while( ( ch = getchar() ) != EOF )
+ {
+ if( ch == ' ' && preCh == ' ' ) continue;
+ //想屏幕输出
+ putchar(ch);
+ //立即显示
+ fflush(stdout);
+ //putchar_unlocked(ch); //立即显示输出的数据
+ preCh = ch;
+ }
+
+}
+
+
+
+
+
+
+
+
+
+

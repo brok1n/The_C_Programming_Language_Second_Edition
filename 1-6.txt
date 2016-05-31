@@ -1,0 +1,1 @@
+ ch != eof == 1 while ended

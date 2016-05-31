@@ -1,0 +1,1 @@
+max line length:80	:    for ( i = 0;  ( ch = getchar() ) != EOF && ch != '\n' && ch != '\r' ; ++ i)
